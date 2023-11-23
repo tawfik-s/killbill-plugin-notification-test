@@ -1,0 +1,9 @@
+org\killbill\billing\plugin\helloworld\MetricsGeneratorExample.class
+org\killbill\billing\plugin\helloworld\HelloWorldHealthcheckServlet.class
+org\killbill\billing\plugin\helloworld\HelloWorldListener.class
+org\killbill\billing\plugin\helloworld\HelloWorldActivator.class
+org\killbill\billing\plugin\helloworld\HelloWorldServlet.class
+org\killbill\billing\plugin\helloworld\HelloWorldConfigurationHandler.class
+org\killbill\billing\plugin\helloworld\HelloWorldListener$1.class
+org\killbill\billing\plugin\helloworld\HelloWorldHealthcheck.class
+org\killbill\billing\plugin\helloworld\MetricsGeneratorExample$1.class
